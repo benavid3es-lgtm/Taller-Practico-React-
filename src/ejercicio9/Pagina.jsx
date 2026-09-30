@@ -113,7 +113,7 @@ function Gimnasio() {
             </table>
         
         <h2>Requisitos de Ingreso</h2>
-        <ul style={{ color: '#cbd5e1', paddingLeft: '20px' }}>
+        <ul>
           <li>1. Uso obligatorio de toalla personal.</li>
           <li>2. Calzado deportivo limpio.</li>
           <li>3. Hidratación en recipiente plástico.</li>
